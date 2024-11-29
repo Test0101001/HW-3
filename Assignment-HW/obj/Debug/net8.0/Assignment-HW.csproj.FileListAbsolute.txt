@@ -1,0 +1,14 @@
+C:\Users\tr3hz\source\repos\oop-assignment-3-Test0101001\Assignment-HW\bin\Debug\net8.0\Assignment-HW.exe
+C:\Users\tr3hz\source\repos\oop-assignment-3-Test0101001\Assignment-HW\bin\Debug\net8.0\Assignment-HW.deps.json
+C:\Users\tr3hz\source\repos\oop-assignment-3-Test0101001\Assignment-HW\bin\Debug\net8.0\Assignment-HW.runtimeconfig.json
+C:\Users\tr3hz\source\repos\oop-assignment-3-Test0101001\Assignment-HW\bin\Debug\net8.0\Assignment-HW.dll
+C:\Users\tr3hz\source\repos\oop-assignment-3-Test0101001\Assignment-HW\bin\Debug\net8.0\Assignment-HW.pdb
+C:\Users\tr3hz\source\repos\oop-assignment-3-Test0101001\Assignment-HW\obj\Debug\net8.0\Assignment-HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tr3hz\source\repos\oop-assignment-3-Test0101001\Assignment-HW\obj\Debug\net8.0\Assignment-HW.AssemblyInfoInputs.cache
+C:\Users\tr3hz\source\repos\oop-assignment-3-Test0101001\Assignment-HW\obj\Debug\net8.0\Assignment-HW.AssemblyInfo.cs
+C:\Users\tr3hz\source\repos\oop-assignment-3-Test0101001\Assignment-HW\obj\Debug\net8.0\Assignment-HW.csproj.CoreCompileInputs.cache
+C:\Users\tr3hz\source\repos\oop-assignment-3-Test0101001\Assignment-HW\obj\Debug\net8.0\Assignment-HW.dll
+C:\Users\tr3hz\source\repos\oop-assignment-3-Test0101001\Assignment-HW\obj\Debug\net8.0\refint\Assignment-HW.dll
+C:\Users\tr3hz\source\repos\oop-assignment-3-Test0101001\Assignment-HW\obj\Debug\net8.0\Assignment-HW.pdb
+C:\Users\tr3hz\source\repos\oop-assignment-3-Test0101001\Assignment-HW\obj\Debug\net8.0\Assignment-HW.genruntimeconfig.cache
+C:\Users\tr3hz\source\repos\oop-assignment-3-Test0101001\Assignment-HW\obj\Debug\net8.0\ref\Assignment-HW.dll
